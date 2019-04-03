@@ -13,6 +13,6 @@ body>#wall #tag-3.slick.wicked{
 body>#wall #tag-4{
   display: none
 }
-/*html>body>#wall .parent #tag-5.slick{*/
-/*  display: none*/
-/*}*/
+html>body>#wall .parent #tag-5.slick{
+  display: none
+}
